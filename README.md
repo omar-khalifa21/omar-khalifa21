@@ -6,7 +6,7 @@ CS student specializing in AI at Ain Shams University. I build full-stack applic
 
 ### Currently
 
-- Building [IronRank](https://github.com/omar-khalifa21/IRON-RANK) — a gamified weightlifting platform to build a fitter generation
+- Building [Ascnd](https://github.com/omar-khalifa21/IRON-RANK) — a gamified weightlifting platform to build a fitter generation
 - Open to internship opportunities in AI / Software Engineering
 - Open to collaborating on interesting projects
 
