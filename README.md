@@ -1,48 +1,61 @@
 # Omar Khalifa
 
-CS student specializing in AI at Ain Shams University. I build full-stack applications, AI-powered backends, and production-ready systems. Passionate about real products that ship.
+**AI and systems engineering student building reliable agents, backend infrastructure, and software for real-world workflows.**
 
----
+Computer Science student in the AI track at Ain Shams University, based in Cairo, Egypt. I work mainly with Python and TypeScript across backend systems, applied machine learning, and agent infrastructure.
 
-### Currently
+I am particularly interested in long-running agents, evaluation systems, distributed backends, observability, and software that remains correct when tools fail or networks disconnect.
 
-- Building [Ascnd](https://github.com/omar-khalifa21/IRON-RANK) — a gamified weightlifting platform to build a fitter generation
-- Open to internship opportunities in AI / Software Engineering
-- Open to collaborating on interesting projects
+## Currently
 
----
+- Building [ArchOS](https://github.com/omar-khalifa21/ArchOS), an agentic workspace for architects and interior designers working with AutoCAD and 3ds Max.
+- Developing software for real operational workflows, including inventory, point-of-sale, and offline synchronization.
+- Looking for Summer 2027 opportunities in software engineering, AI systems, and infrastructure.
+- Open to collaborating on technically ambitious open-source projects.
 
-### Technical Skills
+## Selected Work
 
-**Backend**
+### [ArchOS](https://github.com/omar-khalifa21/ArchOS)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+An agentic workspace for architecture and interior-design workflows. The system connects model planning to Autodesk applications through explicit tools, with persistent execution state, approval gates, checkpoints, recovery, and deterministic verification.
 
-**AI / ML**
+`TypeScript` `Python` `C#/.NET` `MCP` `SQLite` `WebSocket`
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+### Sugar POS and Inventory Platform
 
-**Tools**
+A branch-aware point-of-sale and inventory system built for a real pastry business. It includes role-based workflows, daily inventory, shift operations, Arabic receipts, PostgreSQL persistence, Docker deployment, and an offline-capable client.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+`FastAPI` `PostgreSQL` `Flutter` `SQLite` `Docker` `Nginx`
 
----
+### Arabic Aspect-Based Sentiment Analysis
 
+A PyTorch NLP system for fine-grained Arabic sentiment analysis using a multi-head MARBERTv2 architecture, class-aware training, label smoothing, and reproducible per-aspect evaluation.
 
+`PyTorch` `Transformers` `Arabic NLP` `Experimentation`
 
+### Real-Time Deadlift Form Analyzer
 
-### Connect
+A pose-based movement analysis system that detects lifting phases and technique faults in real time, with WebSocket streaming and immediate feedback.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-magdy-41140424a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarkhalifa565@gmail.com)
+`YOLOv8-Pose` `OpenCV` `FastAPI` `WebSocket`
+
+## Technical Focus
+
+| Area | Technologies and concepts |
+| --- | --- |
+| Languages | Python, TypeScript, SQL, C#, Dart |
+| Backend | FastAPI, Node.js, PostgreSQL, SQLite, Redis, REST, WebSockets |
+| AI and agents | PyTorch, Transformers, OpenCV, RAG, MCP, tool calling, agent evaluation |
+| Infrastructure | Docker, Linux, Nginx, Git, deployment, observability |
+| Client applications | React, Next.js, React Native, Expo, Flutter |
+
+## What I Care About
+
+- Building agents that are evaluated rather than merely demonstrated.
+- Designing backend systems with explicit failure and recovery behavior.
+- Connecting AI to real tools and professional workflows.
+- Measuring performance, documenting tradeoffs, and shipping usable software.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/omar-magdy-41140424a/) · [Email](mailto:omarkhalifa565@gmail.com) · [GitHub](https://github.com/omar-khalifa21)
