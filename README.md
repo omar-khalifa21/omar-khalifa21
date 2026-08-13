@@ -34,6 +34,7 @@ Building reliable AI agents and backend systems · Looking for Summer 2027 inter
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-7C3AED?style=for-the-badge&logoColor=white)
 ![Harness](https://img.shields.io/badge/Harness-00ADE4?style=for-the-badge)
+<img src="./assets/harness.svg" alt="Harness" height="28" />
 
 ### Connect
 
