@@ -1,61 +1,41 @@
 # Omar Khalifa
 
-**AI and systems engineering student building reliable agents, backend infrastructure, and software for real-world workflows.**
+Senior Computer Science student in the AI track at Ain Shams University.
 
-Computer Science student in the AI track at Ain Shams University, based in Cairo, Egypt. I work mainly with Python and TypeScript across backend systems, applied machine learning, and agent infrastructure.
+I started with a strong foundation in machine learning and data science, then spent the last year getting serious about backend engineering—building APIs, data systems, and deploying software that made it past `localhost`.
 
-I am particularly interested in long-running agents, evaluation systems, distributed backends, observability, and software that remains correct when tools fail or networks disconnect.
+Now I mostly build at the overlap: **agentic systems**, where ML meets tools, state, databases, evaluation, and production reliability. That is where I do my best work.
 
-## Currently
+Still learning, usually shipping, occasionally losing arguments to Docker.
 
-- Building [ArchOS](https://github.com/omar-khalifa21/ArchOS), an agentic workspace for architects and interior designers working with AutoCAD and 3ds Max.
-- Developing software for real operational workflows, including inventory, point-of-sale, and offline synchronization.
-- Looking for Summer 2027 opportunities in software engineering, AI systems, and infrastructure.
-- Open to collaborating on technically ambitious open-source projects.
+### Currently
 
-## Selected Work
+Building reliable AI agents and backend systems · Looking for Summer 2027 internships / Full time roles · Open to interesting collaborations
 
-### [ArchOS](https://github.com/omar-khalifa21/ArchOS)
+### Languages
 
-An agentic workspace for architecture and interior-design workflows. The system connects model planning to Autodesk applications through explicit tools, with persistent execution state, approval gates, checkpoints, recovery, and deterministic verification.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-`TypeScript` `Python` `C#/.NET` `MCP` `SQLite` `WebSocket`
+### Backend & Infrastructure
 
-### Sugar POS and Inventory Platform
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-A branch-aware point-of-sale and inventory system built for a real pastry business. It includes role-based workflows, daily inventory, shift operations, Arabic receipts, PostgreSQL persistence, Docker deployment, and an offline-capable client.
+### ML & Agent Systems
 
-`FastAPI` `PostgreSQL` `Flutter` `SQLite` `Docker` `Nginx`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Arabic Aspect-Based Sentiment Analysis
+### Connect
 
-A PyTorch NLP system for fine-grained Arabic sentiment analysis using a multi-head MARBERTv2 architecture, class-aware training, label smoothing, and reproducible per-aspect evaluation.
-
-`PyTorch` `Transformers` `Arabic NLP` `Experimentation`
-
-### Real-Time Deadlift Form Analyzer
-
-A pose-based movement analysis system that detects lifting phases and technique faults in real time, with WebSocket streaming and immediate feedback.
-
-`YOLOv8-Pose` `OpenCV` `FastAPI` `WebSocket`
-
-## Technical Focus
-
-| Area | Technologies and concepts |
-| --- | --- |
-| Languages | Python, TypeScript, SQL, C#, Dart |
-| Backend | FastAPI, Node.js, PostgreSQL, SQLite, Redis, REST, WebSockets |
-| AI and agents | PyTorch, Transformers, OpenCV, RAG, MCP, tool calling, agent evaluation |
-| Infrastructure | Docker, Linux, Nginx, Git, deployment, observability |
-| Client applications | React, Next.js, React Native, Expo, Flutter |
-
-## What I Care About
-
-- Building agents that are evaluated rather than merely demonstrated.
-- Designing backend systems with explicit failure and recovery behavior.
-- Connecting AI to real tools and professional workflows.
-- Measuring performance, documenting tradeoffs, and shipping usable software.
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/omar-magdy-41140424a/) · [Email](mailto:omarkhalifa565@gmail.com) · [GitHub](https://github.com/omar-khalifa21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-magdy-41140424a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarkhalifa565@gmail.com)
