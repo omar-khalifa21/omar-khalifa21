@@ -10,7 +10,7 @@ Still learning, usually shipping, occasionally losing arguments to Docker.
 
 ### Currently
 
-Building reliable AI agents and backend systems · Looking for Summer 2027 internships · Open to interesting collaborations
+Building reliable AI agents and backend systems · Looking for Summer 2027 internships/Full time roles · Open to interesting collaborations
 
 ### Languages
 
